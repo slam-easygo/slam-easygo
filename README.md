@@ -1,1 +1,1 @@
-[![Slam's GitHub stats](https://github-readme-stats-eight-cyan-32.vercel.app/api?username=slam-easygo&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Slam's GitHub stats](https://github-readme-stats-eight-cyan-32.vercel.app/api?username=slam-easygo&show_icons=true&theme=github_dark&show=prs_merged,reviews)](https://github.com/anuraghazra/github-readme-stats)
